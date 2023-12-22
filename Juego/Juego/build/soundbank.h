@@ -1,0 +1,11 @@
+#define SFX_AMBULANCE	0
+#define SFX_BOOM	1
+#define MOD_FLATOUTLIES	0
+#define SFX_COIN	33
+#define SFX_LOSE	34
+#define MOD_MUSICA	1
+#define SFX_RANA	43
+#define SFX_WIN	44
+#define MSL_NSONGS	2
+#define MSL_NSAMPS	45
+#define MSL_BANKSIZE	47
